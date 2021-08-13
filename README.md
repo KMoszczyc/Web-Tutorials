@@ -6,5 +6,5 @@
  
  ![image](https://user-images.githubusercontent.com/61971053/129358151-c6df36d2-5006-4792-b1f2-c540adbb4767.png)
 
-Tutorial [Traversy Media - Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+Based on [Traversy Media - Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
