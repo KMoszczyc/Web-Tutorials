@@ -8,3 +8,6 @@
 
 Based on [Traversy Media - Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
+## 5 Miniprojects
+Based on [Traversy Media - Build 5 Projects With HTML, CSS & JavaScript](https://www.youtube.com/watch?v=JkeyKeK3V24)
+
