@@ -11,3 +11,10 @@ Based on [Traversy Media - Build a Responsive Website | HTML, CSS Grid, Flexbox 
 ## 5 Miniprojects
 Based on [Traversy Media - Build 5 Projects With HTML, CSS & JavaScript](https://www.youtube.com/watch?v=JkeyKeK3V24)
 
+## Wavy backgrounds
+Three cool tools:
+- [Custom Shape Dividers (simple curves - svgs)](https://www.shapedivider.app/)
+- [Haikei (advanced curves, blobs - svgs)](https://app.haikei.app/)
+- [KITE.js - morph blobs together animation](https://github.com/kite-js/kite)
+
+
