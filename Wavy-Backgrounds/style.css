@@ -108,6 +108,8 @@ section {
   fill: #0f0f10;
 }
 
+/* Wave svg based layered curves - even cooler */
+/* https://app.haikei.app/ */
 .spacer {
   aspect-ratio: 960/300;
   width: 100%;
@@ -116,8 +118,6 @@ section {
   background-size: cover;
 }
 
-/* Wave svg based layered curves - even cooler */
-/* https://app.haikei.app/ */
 .layer1 {
   background-image: url("./layer1.svg");
 }
